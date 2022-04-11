@@ -3248,7 +3248,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #98B9F2;
+			background-color: #141B41;
+		}
+		
+		#one > section:nth-child(2) > div {
+			background-color: #306BAC;
 		}
 
 		.wrapper.style2-alt {
